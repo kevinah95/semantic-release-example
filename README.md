@@ -4,6 +4,7 @@
 [![Actions Status](https://github.com/geekhomeinside/semantic-release-example/workflows/semantic-release/badge.svg)](https://github.com/geekhomeinside/semantic-release-example/actions)
 
 > This is only to test semantic-release with yaml configuration file
+>
 
 ## documentation
 
